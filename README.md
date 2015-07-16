@@ -4,4 +4,4 @@ I denna grundläggande sommarkurs lärde jag mig att skapa objektorienterade dat
 
 Programmeringsspråk: <b>Java</b><br>
 Betygsskala: <b>3/4/5</b><br>
-Slutbetyg: <b>G</b>
+Slutbetyg: <b>4</b>
