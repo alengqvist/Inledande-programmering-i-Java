@@ -1,4 +1,4 @@
-# Inledande programmering i Java - HT2014
+# Inledande programmering i Java - ST2015
 
 I denna sommarkurs lärde jag mig att skapa objektorienterade datorprogram med programspråket Java. Eftersom jag redan hade lärt mig de mest grundläggande delarna av Java genom egna projekt på min fritid så valde jag här att fördjupa mig och förbättra min programmeringsmetodik.<br> 
 
